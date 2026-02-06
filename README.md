@@ -17,12 +17,12 @@ The purpose of this repository is to track my progress and serve as a personal r
 - Spring expression language
 - Other core concepts of Spring Framework
 
-# Important Annotations
+## Important Annotations
 
-- @Component()
-- @Scope()
-- @Autowired()
-- @Qualifier()
+- @Component
+- @Scope
+- @Autowired
+- @Qualifier
 - @Value()
 - @PostConstruct
 - @PreDestroy
