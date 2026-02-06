@@ -16,3 +16,17 @@ The purpose of this repository is to track my progress and serve as a personal r
 - Lifecycle of Beans (init and destroy methods)
 - Spring expression language
 - Other core concepts of Spring Framework
+
+# Important Annotations
+
+@Component()
+@Scope()
+@Autowired()
+@Qualifier()
+@Value()
+@PostConstruct
+@PreDestroy
+@Bean
+@Configuration
+@ComponentScan
+@PropertySource
