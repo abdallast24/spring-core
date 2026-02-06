@@ -19,14 +19,14 @@ The purpose of this repository is to track my progress and serve as a personal r
 
 # Important Annotations
 
-@Component()
-@Scope()
-@Autowired()
-@Qualifier()
-@Value()
-@PostConstruct
-@PreDestroy
-@Bean
-@Configuration
-@ComponentScan
-@PropertySource
+- @Component()
+- @Scope()
+- @Autowired()
+- @Qualifier()
+- @Value()
+- @PostConstruct
+- @PreDestroy
+- @Bean
+- @Configuration
+- @ComponentScan
+- @PropertySource
